@@ -2,7 +2,6 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/Mikk4eee?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Mikk4eee?label=Stars&style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Mikk4eee?label=Forks&style=social)
 
 Welcome to my GitHub profile. I'm Michael, a 17-year-old enthusiast passionate about computer science and telecommunications. I currently attend the School of Computer Science & Telecommunications.
 
